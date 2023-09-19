@@ -1,0 +1,104 @@
+---
+title: "AI, Chatbots & Fun!"
+author: "Presented by Daniel Quelali"
+format:
+    revealjs:
+        transition: slide
+        auto-stretch: false
+editor:
+  render-on-save: true
+---
+
+:::{.nostretch}
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.43.2/gradio.js"
+></script>
+
+<gradio-app
+    src="https://danisz-chat-quest.hf.space"
+	eager="true"
+	initial_height="0px"
+></gradio-app>
+:::
+
+---
+
+## Surprise! It was ChatGPT
+![](chatgpt_poem.gif)
+
+---
+
+## Meet ChatGPT
+
+- Imagine it as a robot that lives in the internet
+
+![](wave_hello.gif){fig-align="center"}
+
+---
+
+## Like a smart librarian
+- It learnt by reading many books 📚
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](cat_reading.gif)
+:::
+
+::: {.column width="40%" .incremental}
+- Summaries
+- Creative inspiration
+- Reading comprehension
+:::
+
+::::
+
+---
+
+## How it works: <span style="color:red;">Machine Learning</span>
+- We give the computer a prediction task
+- And teach them by showing millions of examples  
+
+![](cat-dog.jpg){fig-align="center" width=60%}
+
+---
+
+## ChatGPT predicts the next word
+
+- It changes words into numbers using <span style="color:red;">**math**</span>
+- Then, it finds clues in those numbers
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](numbers.jpg){fig-align="center"}
+:::
+
+::: {.column width="40%" .incremental}
+- "Hi, how are ___?"
+- "Once upon a ____"
+:::
+
+::::
+
+---
+
+## Not Always Perfect
+- ChatGPT isn't always right
+- 👩‍🔬👨‍🔬 Scientists are working on making it better! 
+
+---
+
+## Exciting Future
+- Maybe you'll teach the next ChatGPT 👩‍🏫👨‍🏫  
+
+![](mind_blown.gif){width=700 height=466 fig-align="center"}
+
+---
+
+## Q&A
+- Your turn to ask!
+- What's on your mind?
+
+# Thank You!
